@@ -1,0 +1,14 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAPAAAAAAAA8PbwAAAA8P//9t8PAABvZmb23f8P8BZmZj/1P/NQFmZm9jM181UWZmb2M1PzVWZmZvYzU/NQFmZm9jM18/BmZmY/9T/zAG9mZvbd/w8A8P//9t8PAAAAAPD28AAAAAAAAA8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princess1"
+    },
+    "image2": "hwQQABAAAAAAAAAAAAAAAAAAPTPTqgAAANAzM92qAAAAMDMzPaoKAADT3TOjqv8AMMy8o6r6/wDDzKs6r/r/ADMzqjv6+v8AM9O6O6qvDwAz07o7qq8KADPTujv/rwoAM9OqqqqqDwAz07o7qvr/ANPdujuq+v8AMMyjO6r6/wAAwzyqqvoPAA==",
+    "image3": "hwQQABAAAAAAMDOjqqoAAADDPKqq+g8AMMyjO6r6/wDT3bo7qvr/ADPTujuq+v8AM9OqqqqqDwAz07o7/68KADPTujuqrwoAM9O6O6qvDwAzM6o7+vr/AMPMqzqv+v8AMMy8o6r6/wAA090zo6r/AAAwMzM9qgoAANAzM92qAAAAAAAAAAAAAA==",
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
